@@ -2,7 +2,7 @@
 
 I am ziad elhusiny
 ## My experiences
-I am a python programmer with over 3 years of experience in python cli programs, desktop apps / games, algorithms and data structures
+I am a python programmer with over 5years of experience in python cli programs, desktop apps / games, algorithms and data structures
 while also having experience with other languages like c,c++,c#,java,javascript,HTML,CSS,React,dart,flutter and gdscript and much more with atleast 1 year experience in each 
 
 I also have experience with computer logic and built many computer chips in simulations
