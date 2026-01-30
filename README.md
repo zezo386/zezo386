@@ -12,7 +12,7 @@ I also have experience with 2D game development in godot and unity
 I also have experience with solidworks and made many ready to produce designs like robot arms and CNC machines based off real models
 
 ## My working experience
-I am currently working as the head of TI in ADAPT community
+I am currently working as the head of Creativity in ADAPT community
 
 I am also a staff member in the scientific committe in Safwa science
 
